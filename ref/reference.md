@@ -25,9 +25,9 @@ git push origin main
 
 Above we have many commands, here I will explain then
 
-clone -> you make a clone of remote repo on your pc, creating a local repo
-init -> initialize the versioning at repo
-remote add -> adding a remote origin to your local repo (you can use other host platform like, gitlab, bitbucket, etc)
-add -> add your changes to send to your repo
-commit -> add the changes to history of repo, with the identification of the commit we can, revert, compare, and refer the changes
-push -> with push we send all changes(commit) to remote repo
+**clone** -> you make a clone of remote repo on your pc, creating a local repo
+**init** -> initialize the versioning at repo
+**remote add** -> adding a remote origin to your local repo (you can use other host platform like, gitlab, bitbucket, etc)
+**add** -> add your changes to send to your repo
+**commit** -> add the changes to history of repo, with the identification of the commit we can, revert, compare, and refer the changes
+**push** -> with push we send all changes(commit) to remote repo
